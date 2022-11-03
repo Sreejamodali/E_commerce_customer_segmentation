@@ -6,8 +6,10 @@
 Explaining the problem:-->
 
 The client wants to know group of products that are commonly buying together, for example, when we buy shampoo along with shampoo we do buy conditioner and oil for hair 
-as well as shower gel. Similarly, wants to segments products based up on customer preferences 
-#steps to group products
+as well as shower gel. Similarly, wants to segments customers based up on products preferences.
+
+#steps to group customers
+
 #1. Grouping the Customers
 
   ->Using NLP on Description in dataset
